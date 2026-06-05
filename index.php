@@ -42,8 +42,8 @@ include "includes/header.php";
 
         <h2>Londres</h2>
 
-        <p>
-            Descobreix els seus monuments emblemàtics.
+        <p>Gaudeix dels seus monuments
+                    i mercats.
         </p>
 
     </article>
