@@ -11,7 +11,7 @@ include "includes/header.php";
         <h1>Agència de Viatges</h1>
 
         <p>
-            Descobreix les millors destinacions per a les teves vacances.
+            Descobreix les millors destinacions per a les teves vacances del 2026.
         </p>
     </article>
 </section>
